@@ -1,1 +1,1 @@
-# spring-boot-spotless-git-build-hook-maven-java-
+# spring-boot-spotless-git-build-hook-maven-java
