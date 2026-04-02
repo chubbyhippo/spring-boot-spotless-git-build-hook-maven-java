@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
 
-./mvnw spotless:apply
+./mvnw spotless:check
